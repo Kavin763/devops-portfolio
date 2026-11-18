@@ -1,1 +1,2 @@
 Learning DevOps: Linux, Git and GitHub fundamentals.
+Edited on GitHub: this line was added directly from the browser (Unit 1, Part C).
